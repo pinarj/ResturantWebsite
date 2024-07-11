@@ -7,5 +7,6 @@ Responsive Design: Ensures the form looks great on all devices, including deskto
 Technologies Used HTML: Structure of the webpage. CSS: Styling the webpage for a visually appealing design.
 
 # Screenshot 📜
-![Uploading 127.0.0.1_3000_index.html (4).png…]()
 
+
+![127 0 0 1_3000_index html (4)](https://github.com/pinarj/ResturantWebsite/assets/94969516/8095d6f4-9cba-417f-82f2-01e9e137b4c8)
